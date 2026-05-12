@@ -175,6 +175,8 @@ async function eliminarProducto(id) {
   }
 }
 
+
+
 // Eventos
 btnCargar.addEventListener("click", cargarProductos);
 btnGuardar.addEventListener("click", guardarProducto);
